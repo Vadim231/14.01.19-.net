@@ -1,0 +1,12 @@
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\EntityFramework.dll
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\EntityFramework.xml
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CopyComplete
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\КуприенкоВ\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
